@@ -36,3 +36,9 @@ out/
 ### VS Code ###
 .vscode/
 src/main/resources/application.yml
+caches/
+daemon/6.8.2/daemon-14136.out.log
+daemon/
+native/
+wrapper/
+src/test/
